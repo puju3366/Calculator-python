@@ -40,6 +40,8 @@ while True:
             print("Result: ", subtract(num1, num2))
         elif user_input == "multiply":
             print("Result: ", multiply(num1, num2))
+        elif user_input == "divide":
+            print("Result: ",divide(num1, num2))
         
     else:
         print("Invalid input")  # Display an error message for invalid input
