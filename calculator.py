@@ -19,7 +19,7 @@ while True:
     print("\nOptions:")
     print("\nEnter 'add' for addition")
     print("Enter 'subtract' for subtraction")
-    print("Enter 'multiply' for multiplication"
+    print("Enter 'multiply' for multiplication")
     print("Enter 'divide' for division")
     print("Enter 'quit' to end the program")
     
