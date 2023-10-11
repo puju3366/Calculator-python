@@ -16,8 +16,8 @@ def divide(x, y):
 # Main program loop
 while True:
     # Display a menu of options to the user
-    print("Options:")
-    print("Enter 'add' for addition")
+    print("\nOptions:")
+    print("\nEnter 'add' for addition")
     print("Enter 'subtract' for subtraction")
     print("Enter 'multiply' for multiplication")
     print("Enter 'divide' for division")
