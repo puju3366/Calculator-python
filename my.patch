@@ -1,0 +1,13 @@
+diff --git a/calculator.py b/calculator.py
+index 482c068..e9f7d68 100755
+--- a/calculator.py
++++ b/calculator.py
+@@ -21,7 +21,7 @@ while True:
+     print("Enter 'subtract' for subtraction")
+     print("Enter 'multiply' for multiplication")
+     print("Enter 'divide' for division")
+-    # print("Enter 'quit' to end the program")
++    print("Enter 'quit' to end the program")
+     
+     user_input = input(": ")  # Prompt the user for input
+     
