@@ -20,7 +20,7 @@ while True:
     print("\nEnter 'add' for addition")
     print("Enter 'subtract' for subtraction")
     print("Enter 'multiply' for multiplication")
-    print("Enter 'divide' for division")
+    print("Enter 'divide' ")
     print("Enter 'quit' to end the program")
     
     user_input = input(": ")  # Prompt the user for input
